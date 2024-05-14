@@ -12,7 +12,7 @@ This README file provides instructions for setting up and using a Django weather
 ### Steps:
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/haseebsultankhan/weather-app.git
     ```
 
 2. **Install dependencies:**
